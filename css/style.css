@@ -1,0 +1,39 @@
+  div { background-color: #00cd7dc2;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 50px;}
+    .color1{
+    	color: #fcd505;
+
+    }
+    .color2{
+    	color: #fcd505;
+    }
+    img{
+    	max-width: 100%;
+    }
+    .wrapper{
+    	width: 1200px;
+    	margin: auto;
+    	background: #6495ed26;
+    	padding: 56px;
+    	text-align: center;
+       }
+    h1{
+       	font-size: 60px;
+       	margin: 0;
+       }
+       .color3{
+       	color: black;
+       }
+       .link{
+       	text-decoration: none;
+   		font-size: 18px;
+		padding: 15px;
+		background-color: #08df508f;
+		display: inline-block;
+
+       }
+
